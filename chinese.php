@@ -14,6 +14,4 @@ define("h","商品名称");
 define("i","我的购物车");
 define("j","清空购物车");
 define("add_success","加入购物车成功");
-
-
 ?>
